@@ -3,14 +3,18 @@
 # Bruno Maia
 
 Maintenance Engineer | Data Science | Industry 4.0
+
 📍 ZF Automotive Brazil
 📊 Focus: Predictive maintenance and machine learning applied to industry
+
 🚀 Key Projects
 Predictive Maintenance using Random Forest
 Industrial failure analysis
 Maintenance automation with SAP data
+
 🛠️ Tech Stack
 Python | Pandas | Scikit-learn | Power BI | SAP PM | Azure
+
 📈 Objective
 Leveraging Artificial Intelligence to reduce downtime and optimize industrial maintenance
 
